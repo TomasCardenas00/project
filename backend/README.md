@@ -27,17 +27,17 @@ In this project, the backend will be done in *python*, in version *3.11.0,* ther
 - Faker → This library will be used in order to help the creation of fake data.
 
 ### Entities
-1. User
-2. Profile
-3. Account
-4. Comment
-5. Like
-6. Post
-7. Repost
-9. Like
-10. Mute
-11. Block
-12. Save
+1. User: account()
+2. Profile:name,id,name,actions_s(user),actions_g(user),modift()
+3. Account:log_in(),to_register(),request.
+4. Comment:id,name,text
+5. Like:id,name
+6. Post:id,name,informationa,actions_g()
+7. Repost:id,name,information,actions_g()
+8. Mute:id,name,reason,changer()
+9. Block:id,name,reason,changer()
+10. Save:profile(user),account(user),
+
 
 ### Processes
 1. Log in / Create Account
