@@ -1,8 +1,8 @@
 # READ ME
-Project Made by:
+**Project Made by:**
 
-Tomás Cárdenas Benítez - 20221020021
+_Tomás Cárdenas Benítez_ - 20221020021
 
-Juan Jesus Poveda - 20202020128
+_Juan Jesus Poveda_ - 20202020128
 
 Universidad Distrital Francisco Jose de Caldas
