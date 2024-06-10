@@ -43,34 +43,23 @@ In this project, the backend will be done in *python*, in version *3.11.0,* ther
 1. Log in
    ![log-in](https://github.com/TomasCardenas00/project/blob/main/backend/images/log_in-diag.jpg)
      
-2. Reset password
+2. Create account
 
-   ![reset-password](https://github.com/TomasCardenas00/prueba/assets/163557446/1dd899a4-2d4f-4bea-b456-cb5aeae39ff9)
-3. Post{Text, Images, Video, Audio, etc}
+   ![create.account](https://github.com/TomasCardenas00/project/blob/main/backend/images/create_acount-diag.jpg)
+3. Make a Post{Text, Images, Video, Audio, etc}
 
-   ![post](https://github.com/TomasCardenas00/prueba/assets/163557446/c0e659cb-e736-49ec-9e18-9653425109f3)
-4. Repost/Quote Post
+   ![post](https://github.com/TomasCardenas00/project/blob/main/backend/images/make_a_post-diag.jpg)
+4. Repost a Post
 
-   ![repost-quote](https://github.com/TomasCardenas00/prueba/assets/163557446/401c3633-3188-4934-90bd-4636f0c7329a)
-5. Like a post()
+   ![repost](https://github.com/TomasCardenas00/project/blob/main/backend/images/repost_post-diag.jpg)
+5. Like a post:
    
-   ![like-post](https://github.com/TomasCardenas00/prueba/assets/163557446/c39cb4d1-c216-4adf-8c95-c5b828131943)
-6. Report post/account
+   ![like-post](https://github.com/TomasCardenas00/project/blob/main/backend/images/like_post-diag.jpg)
+6. Report account
    
-   ![report](https://github.com/TomasCardenas00/prueba/assets/163557446/520f739d-a95e-4402-95e2-6fe1d5366d02)
+   ![report](https://github.com/TomasCardenas00/project/blob/main/backend/images/report_account-diag.jpg)
 7. Block an account
    
-   ![block](https://github.com/TomasCardenas00/prueba/assets/163557446/2d9f2fdc-6396-4e70-87d6-3f8076663098)  
+   ![block](https://github.com/TomasCardenas00/project/blob/main/backend/images/block_user-diag.jpg)  
    
-8. Modify account
-   
-   ![modify-account](https://github.com/TomasCardenas00/prueba/assets/163557446/053d5ee2-1912-4b8d-bfc0-06f68901d640)
-9. Save posts
-
-   ![save](https://github.com/TomasCardenas00/prueba/assets/163557446/15b320a8-a6d3-4853-9972-ca040a605a71)
-   
-10. Mute Content
-   
-   ![mute](https://github.com/TomasCardenas00/prueba/assets/163557446/a37a1e09-7ad5-421d-8c8c-05662befc86a)
-
 
