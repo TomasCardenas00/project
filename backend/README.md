@@ -2,7 +2,7 @@
 ## Introduction
 In this project, it will be developed and explained the creation of an social media application/platform where an user can make post about a variety of topics, share multimedia files (images, videos, GIFs, among others), interact with other users from the app, while also having moderation and regulation from the content posted, in order to make a respectful and enjoyable space and make new users more comfortable when joining the app.
 ## Business Model
-The main reason this app will be developed is to give the people another posting social media platform, while attempting to become superior in other spaces these social media platforms have failed. One of the main money income the app will get will be from ad revenue, another income would come from the collaboration between the app and different brands and companies. Most of the money will be redirected onto the app maintenance (app renovations, server maintenance, bug fixing, etc).
+The main reason this app will be developed is to give the people another posting social media platform, while attempting to become superior in other spaces these social media platforms have failed. 
 ### Business Rules
 - The users must be over 17 years of age
 - Users must not engage in the targeted harassment of someone, or incite other people to do so.
@@ -25,6 +25,7 @@ The main reason this app will be developed is to give the people another posting
 In this project, the backend will be done in *python*, in version *3.11.0,* there will be use of some python libraries to help the project
 - Json → This library will help as a DataBase for the project (users information, posts made, accounts blocked, among others)
 - Faker → This library will be used in order to help the creation of fake user, with also the help of creating different dake post's data.
+- Random → This library will help choosing between different sets of passwords when generating fake users.
 
 ### Entities
 1. _User_: username, get_username()
