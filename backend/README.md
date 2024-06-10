@@ -23,8 +23,8 @@ The main reason this app will be developed is to give the people another posting
 ## Technical definitions
 ### Tools
 In this project, the backend will be done in *python*, in version *3.11.0,* there will be use of some python libraries to help the project
-- Pandas → This library will help as a DataBase for the project (users information, posts made, post saved, …)
-- Faker → This library will be used in order to help the creation of fake data.
+- Json → This library will help as a DataBase for the project (users information, posts made, accounts blocked, among others)
+- Faker → This library will be used in order to help the creation of fake user, with also the help of creating different dake post's data.
 
 ### Entities
 1. User: account()
