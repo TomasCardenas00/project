@@ -41,7 +41,7 @@ In this project, the backend will be done in *python*, in version *3.11.0,* ther
 
 ### Processes
 1. Log in
-   https://github.com/TomasCardenas00/project/blob/main/backend/images/log_in-diag.jpg
+   ![log-in](https://github.com/TomasCardenas00/project/blob/main/backend/images/log_in-diag.jpg)
      
 2. Reset password
 
