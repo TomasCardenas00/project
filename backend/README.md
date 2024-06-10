@@ -27,17 +27,14 @@ In this project, the backend will be done in *python*, in version *3.11.0,* ther
 - Faker → This library will be used in order to help the creation of fake user, with also the help of creating different dake post's data.
 
 ### Entities
-1. User: account()
-2. Profile:name,id,name,actions_s(user),actions_g(user),modift()
-3. Account:log_in(),to_register(),request.
-4. Comment:id,name,text
-5. Like:id,name
-6. Post:id,name,informationa,actions_g()
-7. Repost:id,name,information,actions_g()
-8. Mute:id,name,reason,changer()
-9. Block:id,name,reason,changer()
-10. Save:profile(user),account(user),
-
+1. _User_: username, get_username()
+2. _Autheticator_: new(), authenticate()
+3. _Post_: text, likes, comments, saved, reports, to_dict(), like_post(), save_post(), add_comment(), report_post()
+4. _TextPost(Post)_
+5. _ImagePost(Post)_
+6. _VideoPost(Post)_
+7. _PostFactory_: create_post()
+8. _SocialMediaFacade_: login(), create_post(), add_post(), like_post(), save_post(), add_comment(), report_post(), block_user(), quote_post(), report_user(), repost_post()
 
 ### Processes
 1. Log in
