@@ -40,9 +40,9 @@ In this project, the backend will be done in *python*, in version *3.11.0,* ther
 
 
 ### Processes
-1. Log in / Create Account
-   
-   ![log-in](https://github.com/TomasCardenas00/prueba/assets/163557446/a7f563bb-df67-44ec-bd21-e8e3de946a5f)
+1. Log in
+   https://github.com/TomasCardenas00/project/blob/main/backend/images/log_in-diag.jpg
+     
 2. Reset password
 
    ![reset-password](https://github.com/TomasCardenas00/prueba/assets/163557446/1dd899a4-2d4f-4bea-b456-cb5aeae39ff9)
