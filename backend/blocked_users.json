@@ -1,0 +1,8 @@
+[
+    {
+        "username": "newUser",
+        "blocked_users": [
+            "oldUser"
+        ]
+    }
+]

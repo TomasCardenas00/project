@@ -1,0 +1,46 @@
+[
+    {
+        "username": "newUser",
+        "password": "newPassword",
+        "profile": {
+            "bio": "This is my bio",
+            "pfp": "path/to/pfp.png",
+            "birthday": "1990-01-01",
+            "posts": [
+                {
+                    "text": "This is a post text",
+                    "likes": 10,
+                    "comments": [
+                        "Nice post!",
+                        "Great!"
+                    ],
+                    "saved": 5
+                },
+                {
+                    "text": "This is the second post",
+                    "likes": 20,
+                    "comments": [
+                        "Amazing!",
+                        "Wonderful!"
+                    ],
+                    "saved": 10
+                },
+                {
+                    "text": "This is the second post",
+                    "likes": 20,
+                    "comments": [
+                        "Amazing!",
+                        "Wonderful!"
+                    ],
+                    "saved": 10
+                },
+                {
+                    "text": "ola",
+                    "likes": 0,
+                    "comments": [],
+                    "saved": 0
+                }
+            ]
+        }
+    }
+]
