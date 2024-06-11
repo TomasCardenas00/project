@@ -45,30 +45,30 @@ In this project, the backend will be done in *python*, in version *3.11.0,* ther
 
 ### Processes
 1. Log in
-   https://github.com/TomasCardenas00/project/blob/main/content/images/log_in-diag.jpg
+   ![log.in](https://github.com/TomasCardenas00/project/blob/main/content/images/log_in-diag.jpg)
      
 2. Reset passwrod
-   ![reset-password](https://github.com/TomasCardenas00/project/blob/main/backend/images/reset_password-diag.jpg)
+   ![reset-password](https://github.com/TomasCardenas00/project/blob/main/content/images/reset_password-diag.jpg)
 
 3. Create account
 
-   ![create.account](https://github.com/TomasCardenas00/project/blob/main/backend/images/create_acount-diag.jpg)
+   ![create.account](https://github.com/TomasCardenas00/project/blob/main/content/images/create_acount-diag.jpg)
 4. Make a Post{Text, Images, Video, Audio, etc}
 
-   ![post](https://github.com/TomasCardenas00/project/blob/main/backend/images/make_a_post-diag.jpg)
+   ![post](https://github.com/TomasCardenas00/project/blob/main/content/images/make_a_post-diag.jpg)
 5. Repost a Post
 
-   ![repost](https://github.com/TomasCardenas00/project/blob/main/backend/images/repost_post-diag.jpg)
+   ![repost](https://github.com/TomasCardenas00/project/blob/main/content/images/repost_post-diag.jpg)
 6. Quote a Post
 
-   ![quote](https://github.com/TomasCardenas00/project/blob/main/backend/images/quote_post-diag.jpg)
+   ![quote](https://github.com/TomasCardenas00/project/blob/main/content/images/quote_post-diag.jpg)
 7. Like a post:
    
-   ![like-post](https://github.com/TomasCardenas00/project/blob/main/backend/images/like_post-diag.jpg)
+   ![like-post](https://github.com/TomasCardenas00/project/blob/main/content/images/like_post-diag.jpg)
 8. Report account
    
-   ![report](https://github.com/TomasCardenas00/project/blob/main/backend/images/report_account-diag.jpg)
+   ![report](https://github.com/TomasCardenas00/project/blob/main/content/images/report_account-diag.jpg)
 9. Block an account
    
-   ![block](https://github.com/TomasCardenas00/project/blob/main/backend/images/block_user-diag.jpg)  
+   ![block](https://github.com/TomasCardenas00/project/blob/main/content/images/block_user-diag.jpg)  
    
